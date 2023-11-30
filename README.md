@@ -1,3 +1,3 @@
 # Jupyter AI
 
-Test only.
+Test only. Nothing more.
